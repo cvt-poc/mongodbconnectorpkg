@@ -1,0 +1,3 @@
+[submodule "mongodbconnectorpkg-1"]
+	path = mongodbconnectorpkg-1
+	url = https://github.com/cvt-poc/mongodbconnectorpkg.git
